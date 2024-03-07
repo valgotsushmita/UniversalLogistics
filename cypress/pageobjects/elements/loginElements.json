@@ -1,0 +1,9 @@
+{
+"loginUrl": "https://ops.goutsi.com",
+"usernameel":"input[ng-model='$ctrl.username']",
+"passwordel":"input[ng-model='$ctrl.password']",
+"submitel":".md-raised",
+"Menubuttonel":"[data-cy='Menu_Button']",
+"logoel":"#logo"
+}
+
