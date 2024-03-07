@@ -56,11 +56,20 @@ class payablePage {
 
   }
 
+  verifyFilters(){
+    cy.get(payableElements.filter).click();
+
+    cy.contains(payableElements.filteroption).click();
+    cy.contains(payableElements.equipmentNumber).should('be.visible').click();
+    
+    
+  }
+}
 
 
 
   
-  }
+
 
 
 const payable = new payablePage();

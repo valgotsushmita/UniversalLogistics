@@ -120,7 +120,7 @@ class Dispatchpage {
   })})
   }
 
-   notesFunctionality(){
+  notesFunctionality(){
     cy.contains(dispatchelements.assignmentTab)
     .should('be.visible')
     .click();

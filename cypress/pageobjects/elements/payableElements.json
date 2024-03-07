@@ -1,15 +1,18 @@
 {
-    "searchButton": "[data-cy='AdvancedSearch:Equipment Number_Label']",
-    "equipmentNumber": "FANU1498810",
-    "rowId": "td",
-    "invoicetab": ".mdc-tab__text-label",
-    "invoicetext": "Invoices",
-    "editInvoiceDetail": "Edit Invoice Details",
-    "cancel": "Cancel",
-    "save": "Save",
-    "addLineItem": " Add Line Item ",
-    "deleteLineItem": "delete_forever",
-    "billto": "mat-mdc-tooltip-trigger edit-bill-to-button mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+  "searchButton": "[data-cy='AdvancedSearch:Equipment Number_Label']",
+  "equipmentNumber": "FANU1498810",
+  "rowId": "td",
+  "invoicetab": ".mdc-tab__text-label",
+  "invoicetext": "Invoices",
+  "editInvoiceDetail": "Edit Invoice Details",
+  "cancel": "Cancel",
+  "save": "Save",
+  "addLineItem": " Add Line Item ",
+  "deleteLineItem": "delete_forever",
+  "billto": "mat-mdc-tooltip-trigger edit-bill-to-button mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+  "filters": "filters",
+  "filterOption": "#mat-mdc-checkbox-12-input",
+  "equipmentfilter":"[data-cy='AdvancedSearch:Equipment Number_Label']",
+  "rowel":"td"
 
-    "filters": "filters"
 }
